@@ -1,3 +1,5 @@
+import TicTaccer from '../components/ticTaccer';
+
 function Home() {
   return (
     <div
@@ -9,7 +11,8 @@ function Home() {
         margin: '0 auto',
       }}
     >
-      <h1>Welcome Home!</h1>
+      <h1>Tic-Tac-Toe!</h1>
+      <TicTaccer />
     </div>
   );
 }
