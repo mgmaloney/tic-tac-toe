@@ -32,3 +32,7 @@ body {
   height: 33%;
   font-size: 3rem;
 }
+
+.win {
+  background-color: chartreuse;
+}
